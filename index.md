@@ -1,5 +1,3 @@
-# The Hacka-noho information page
-
 ## About
 
 The Hacka-noho is a combined hackathon and noho marae. The aim of it is to strengthen our Tuākana ties by working together on some collaborative projects and staying together at Waipapa marae.
