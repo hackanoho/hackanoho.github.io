@@ -21,3 +21,5 @@ We will have a powhiri to kick on on the evening of Friday 26 March. The program
 If you have any questions, contact David Welch [david.welch@auckland.ac.nz](mailto:david.welch@auckland.ac.nz) or Daniel Wilson [daniel.wilson@auckland.ac.nz](mailto:daniel.wilson@auckland.ac.nz)
 
 We look forward to seeing you there!
+
+![Invite](./hackanohoflyer.png)
