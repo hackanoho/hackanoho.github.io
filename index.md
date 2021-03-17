@@ -16,6 +16,22 @@ The Hacka-noho will be held at University of Auckland's [Waipapa Marae](https://
 
 We will have a powhiri to kick on on the evening of Friday 26 March. The programme runs through until early afternoon of Sunday 28 March.
 
+## Rough plan
+
+* Friday evening will consist of powhiri (welcome), kai (dinner), mihimihi (introductions), and a overview on what the weekend is about.
+* All Saturday will be there to work in teams of projects of your choosing. Several project ideas will be presented, or bring your own.
+* Sunday morning will be time to finish up and organsise something to present back to the wider group.
+* Finish about 1pm Sunday.
+
+## Questions and answers
+
+* Q: What do I need to know to come along?
+  * A: Not a whole lot. The hacka-noho is aimed at people with all skill levels in the Faculty who have done or are doing any Stats or Comp Sci course (or similar data/programming type courses)   
+* Q: Do I need to be there the whole time?
+  * A: No. If you have work or other commitments that mean you can only come for part of it, you can still come along.
+
+
+
 ## Contact
 
 If you have any questions, contact David Welch [david.welch@auckland.ac.nz](mailto:david.welch@auckland.ac.nz) or Daniel Wilson [daniel.wilson@auckland.ac.nz](mailto:daniel.wilson@auckland.ac.nz)
