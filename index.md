@@ -29,6 +29,20 @@ Accomodation is at the marae.
 * Sunday morning will be time to finish up and organsise something to present back to the wider group.
 * Finish about 1pm Sunday.
 
+## Possible projects
+
+You are free to bring your own project ideas if you have them but we have also come up with a few ideas ourselves. Here's a list:
+
+* Create a website on health and technology based on Te Whare Tapa Whā principles
+* Creating visualisations for the data on Te Reo Maori and other Pacific languages
+* Modelling how New Zealand media portray environmental issues
+* Creating maps to visualise pollution by region
+* Using the SMAT (social media analysis tool) API to analyse conspiracy theories on social media
+* Exploring prospects for language survival using mathematical models based on a [recent paper](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2019.0526)
+* Working with people from [Papa Reo](https://papareo.nz/) on machine learning applied to Māori and Pacific Languages
+* Working to improve the hacka-noho concept and delivery
+
+Just to emphasise: these are suggestions only. We will approach questions like these from whatever background we already have and do not expect to "complete" any project in a single weekend.
 
 ## Questions and answers
 
