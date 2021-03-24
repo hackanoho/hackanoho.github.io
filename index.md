@@ -22,12 +22,27 @@ We will have a powhiri to kick on on the evening of Friday 26 March. The program
 
 Accomodation is at the marae.
 
-## Rough plan
+## Plan
 
-* Friday evening will consist of powhiri (welcome), kai (dinner), mihimihi (introductions), and a overview on what the weekend is about.
-* All Saturday will be there to work in teams of projects of your choosing. Several project ideas will be presented, or bring your own.
-* Sunday morning will be time to finish up and organsise something to present back to the wider group.
-* Finish about 1pm Sunday.
+**Friday** 
+
+* Meet at Waipapa at 5:30pm
+* Powhiri
+* 7pm Kai
+* 8:30pm- Mihimihi (introductions), overview of hackanoho, and discussion
+
+**Saturday**
+
+* Breakfast 8-9am
+* Most of the day will be for work on projects and discussions in smaller groups.
+* About 12:30 Lunch
+* 7pm More kai
+
+**Sunday**
+
+* Breakfast
+* Sunday morning will be time to finish up and work and present back/discuss with the wider group.
+* 1pm finish
 
 ## Possible projects
 
