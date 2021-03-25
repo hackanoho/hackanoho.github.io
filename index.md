@@ -59,7 +59,7 @@ You are free to bring your own project ideas if you have them but we have also c
 
 Just to emphasise: these are suggestions only. We will approach questions like these from whatever background we already have and do not expect to "complete" any project in a single weekend.
 
-Some of these ideas have been fleshed out a little with skeleton code provided at https://github.com/hackanoho/project-ideas.
+Some of these ideas have been fleshed out a little with skeleton code provided at <https://github.com/hackanoho/project-ideas>.
 
 ## Questions and answers
 
