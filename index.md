@@ -4,9 +4,9 @@ The Hacka-noho is a combined hackathon and noho marae. The aim of it is to stren
 
 People are welcome from all skill levels and all levels of study from 100- to 700-level.
 
-The Hacka-noho is a fully catered and free event.
+The Hacka-noho is a fully catered and free event, with accommodation at the marae.
 
-Email us if you would like to attend (see Contact below).
+The first Hacka-noho ran from 26-28 March 2021. We are looking at scheduling future events so if you are interested in participating or contributing, email us (see Contact below).
 
 ![Invite](./hackanohoflyer.png)
 
@@ -14,15 +14,15 @@ Email us if you would like to attend (see Contact below).
 
 ## Location
 
-The Hacka-noho will be held at University of Auckland's [Waipapa Marae](https://www.auckland.ac.nz/en/on-campus/life-on-campus/maori-life-on-campus/waipapa-marae.html) which is at [16 Wynyard St, Auckland 1010](https://goo.gl/maps/ZGcf5QAWceEpJj9N9) just off Altern Road. 
+The Hacka-noho was held at University of Auckland's [Waipapa Marae](https://www.auckland.ac.nz/en/on-campus/life-on-campus/maori-life-on-campus/waipapa-marae.html) which is at [16 Wynyard St, Auckland 1010](https://goo.gl/maps/ZGcf5QAWceEpJj9N9) just off Altern Road. 
 
 ## Dates and times
 
-We will have a powhiri to kick on on the evening of Friday 26 March. The programme runs through until early afternoon of Sunday 28 March.
+The first Science Hackanoho ran from the evening of Friday 26 March 2021 through until early afternoon of Sunday 28 March.
 
-Accomodation is at the marae.
+We are looking at running further hackanohos in semester 2 2021 or semester 1 2022.
 
-## Plan
+## Programme
 
 **Friday** 
 
@@ -78,6 +78,6 @@ Some of these ideas have been fleshed out a little with skeleton code provided a
 
 ## Contact
 
-If you would like to register to attend or have any questions, contact David Welch [david.welch@auckland.ac.nz](mailto:david.welch@auckland.ac.nz) or Daniel Wilson [daniel.wilson@auckland.ac.nz](mailto:daniel.wilson@auckland.ac.nz)
+If you have any questions about the hackanoho that we have run or possible future events, contact David Welch [david.welch@auckland.ac.nz](mailto:david.welch@auckland.ac.nz) or Daniel Wilson [daniel.wilson@auckland.ac.nz](mailto:daniel.wilson@auckland.ac.nz)
 
-We look forward to seeing you there!
+We look forward to hearing from you!
