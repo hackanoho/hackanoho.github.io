@@ -1,31 +1,35 @@
 ## About
 
-The Data and Computing Noho marae is aimed at strengthening our knowledge of these areas and our Tuākana ties. We will achieve this through kōrero, wānaga, and kai as we stay together at Te Aka Matua ki Te Pou Hawaiki marae on Epsom Campus.
+The Hacka-noho is a combined hackathon and noho marae. The aim of it is to strengthen our Tuākana ties by working together on some collaborative projects and staying together at Waipapa marae.
 
-People are welcome from all skill levels and all levels of study from 100- to 700-level across the Faculty of Science and within Software Engineering.
+People are welcome from all skill levels and all levels of study from 100- to 700-level.
 
-The noho is a fully catered and free event, with accommodation at the marae.
+The Hacka-noho is a fully catered and free event, with accommodation at the marae.
 
-It is based on a [similar event that ran in 2021](./2021hackanoho).
+The first Hacka-noho ran from 26-28 March 2021. We are looking at scheduling future events so if you are interested in participating or contributing, email us (see Contact below).
 
-![Invite](./tetaka.jpg)
+![Invite](./hackanohoflyer.png)
+
+[Download flyer as pdf](./hackanohoflyer.pdf "Flyer pdf")
 
 ## Location
 
-The Data and Computing Noho will be held at University of Auckland's [Te Aka Matua ki Te Pou Hawaiki marae](https://toirau.auckland.ac.nz/category/te-aka-matua-ki-te-pou-hawaiki/) on the Epsom campus. Use Gate 1 at [78 Epsom Avenue, Epsom, Auckland  1023](https://goo.gl/maps/hhMiCvbMUVdB1zWD9) just down the road from the Mt Eden shops. 
+The Hacka-noho was held at University of Auckland's [Waipapa Marae](https://www.auckland.ac.nz/en/on-campus/life-on-campus/maori-life-on-campus/waipapa-marae.html) which is at [16 Wynyard St, Auckland 1010](https://goo.gl/maps/ZGcf5QAWceEpJj9N9) just off Altern Road. 
 
 ## Dates and times
 
-The Noho will run from 6pm Friday 24 March, to 1pm Sunday 2.
+The first Science Hackanoho ran from the evening of Friday 26 March 2021 through until early afternoon of Sunday 28 March.
+
+We are looking at running further hackanohos in semester 2 2021 or semester 1 2022.
 
 ## Programme
 
 **Friday** 
 
-* Meet at Waipapa at 6pm
+* Meet at Waipapa at 5:30pm
 * Powhiri
 * 7pm Kai
-* 8:30pm- Mihimihi (introductions), overview of noho, and discussion
+* 8:30pm- Mihimihi (introductions), overview of hackanoho, and discussion
 
 **Saturday**
 
@@ -67,6 +71,8 @@ Some of these ideas have been fleshed out a little with skeleton code provided a
   * A: Accomodation is in the whare nui so bring a sleeping bag and whatever personal items you need. If you have a lap-top or other device, you can bring that too. 
 * Q: Can I borrow a laptop?
   * A: Probably. Let us know you need one.  
+* Q: How can I register to attend?
+  * A: Just send us an email, see Contact details below
 
 
 
