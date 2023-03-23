@@ -20,9 +20,22 @@ A [map of the Epsom campus is here](https://www.auckland.ac.nz/content/dam/uoa/a
 
 The Noho will run from 6pm Friday 24 March, to 1pm Sunday 26 March.
 
+## Gift voucher to encourage and support attendance
+
+Students who attend for a large part of the noho will be be given a $300 gift voucher. Either Countdown or Westfield vouchers are available. These will be sent out in the week following the noho. 
+
+## Manuhiri 
+
+As well as past and present Tuākana tutors and coordinators from Computer Science, and the Faculty of Science Kaiarahi, we are lucky to have people from the following organisations who will be at the noho.
+
+* [Dragonfly Data Science](https://www.dragonfly.co.nz/)
+* the [Papa Reo project](https://tehiku.nz/te-hiku-tech/papa-reo/) at Te Hiku Tech, and 
+* [Te Matarau](https://www.tematarau.tech/) (Maori Tech Association)
+
+
 ## Programme
 
-The flow of the day will be guided by people's interests and what is working best. The main fixed times will be meal times. 
+The flow of the day will be guided by people's interests and what is working best. The main fixed times will be meal times but a rough outline is given below.
 
 
 **Friday** 
@@ -55,14 +68,20 @@ At the last noho, we came up with  a list of possible projects people may want t
 * Creating visualisations for the data on Te Reo Maori and other Pacific languages
 * Modelling how New Zealand media portray environmental issues
 * Creating maps to visualise pollution by region
-* Using the SMAT (social media analysis tool) API to analyse conspiracy theories on social media
 * Exploring prospects for language survival using mathematical models based on a [recent paper](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2019.0526)
 * Working with people from [Papa Reo](https://papareo.nz/) on machine learning applied to Māori and Pacific Languages
-* Working to improve the hacka-noho concept and delivery
+* Working to improve the noho concept and delivery
 
 Just to emphasise: these are suggestions only. We will approach questions like these from whatever background we already have and do not expect to "complete" any project in a single weekend.
 
 Some of these ideas have been fleshed out a little with skeleton code provided at <https://github.com/hackanoho/project-ideas>.
+
+## COVID-19
+
+To keep the noho safe and make sure there is no have significant spread of Covid-19 during the event, we ask everyone to *take a RAT test on Friday before coming**. 
+
+There will be RATs available on site so people can test again on Saturday morning.
+
 
 ## Questions and answers
 
@@ -79,6 +98,9 @@ Some of these ideas have been fleshed out a little with skeleton code provided a
 
 ## Contact
 
-If you have any questions about the event , contact David Welch [david.welch@auckland.ac.nz](mailto:david.welch@auckland.ac.nz) ph 0211354767 or Daniel Wilson [daniel.wilson@auckland.ac.nz](mailto:daniel.wilson@auckland.ac.nz)
+If you have any questions about the event , contact 
+
+* David Welch [david.welch@auckland.ac.nz](mailto:david.welch@auckland.ac.nz) ph 0211354767, or 
+* Daniel Wilson [daniel.wilson@auckland.ac.nz](mailto:daniel.wilson@auckland.ac.nz) ph 0210673167
 
 We look forward to hearing from you!
