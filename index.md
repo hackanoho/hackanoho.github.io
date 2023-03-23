@@ -2,13 +2,13 @@
 
 The Data and Computing Noho marae is aimed at strengthening our knowledge of these areas and our Tuākana ties. We will achieve this through kōrero, wānaga, and kai as we stay together at Te Aka Matua ki Te Pou Hawaiki marae on Epsom Campus.
 
-People are welcome from all skill levels and all levels of study from 100- to 700-level across the Faculty of Science and within Software Engineering.
+People are welcome from all skill levels and all levels of study from 100- to 700-level across the Faculty of Science or Software Engineering.
 
 The noho is a fully catered and free event, with accommodation at the marae.
 
 It is based on a [similar event that ran in 2021](./2021hackanoho).
 
-![Invite](./tetaka.jpg)
+![Marae](./tetaka.jpg)
 
 ## Location
 
@@ -84,6 +84,9 @@ To keep the noho safe and make sure there is no have significant spread of Covid
 
 There will be RATs available on site so people can test again on Saturday morning.
 
+## Ngā mihi
+
+Some financial support for this noho has come from [Infosys](https://www.infosys.com/careers/australia-new-zealand.html) which is gratefully acknowledged here. 
 
 ## Questions and answers
 
