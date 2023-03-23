@@ -12,17 +12,22 @@ It is based on a [similar event that ran in 2021](./2021hackanoho).
 
 ## Location
 
-The Data and Computing Noho will be held at University of Auckland's [Te Aka Matua ki Te Pou Hawaiki marae](https://toirau.auckland.ac.nz/category/te-aka-matua-ki-te-pou-hawaiki/) on the Epsom campus. Use Gate 1 at [78 Epsom Avenue, Epsom, Auckland  1023](https://goo.gl/maps/hhMiCvbMUVdB1zWD9) just down the road from the Mt Eden shops. 
+The Data and Computing Noho will be held at University of Auckland's [Te Aka Matua ki Te Pou Hawaiki marae](https://toirau.auckland.ac.nz/category/te-aka-matua-ki-te-pou-hawaiki/) on the Epsom campus. Use Gate 1 at [78 Epsom Avenue, Epsom, Auckland  1023](https://goo.gl/maps/hhMiCvbMUVdB1zWD9) just down the road from the Mt Eden shops, the marae is [just up the driveway on the left](https://goo.gl/maps/hhMiCvbMUVdB1zWD9). 
+
+A [map of the Epsom campus is here](https://www.auckland.ac.nz/content/dam/uoa/auckland/on-campus/our-campuses/campus-maps/epsom-campus-map.pdf) (pdf)
 
 ## Dates and times
 
-The Noho will run from 6pm Friday 24 March, to 1pm Sunday 2.
+The Noho will run from 6pm Friday 24 March, to 1pm Sunday 26 March.
 
 ## Programme
 
+The flow of the day will be guided by people's interests and what is working best. The main fixed times will be meal times. 
+
+
 **Friday** 
 
-* Meet at Waipapa at 6pm
+* Meet at Te Aka Matua marae at 6pm
 * Powhiri
 * 7pm Kai
 * 8:30pm- Mihimihi (introductions), overview of noho, and discussion
@@ -30,19 +35,21 @@ The Noho will run from 6pm Friday 24 March, to 1pm Sunday 2.
 **Saturday**
 
 * Breakfast 8-9am
-* Most of the day will be for work on projects and discussions in smaller groups.
+* In the morning sessions, guests will discuss an interesting current project, with plenty of time for questions and discussion
 * About 12:30 Lunch
+* The afternoon sessions will be based more around useful skills for working with data.
 * 7pm More kai
 
 **Sunday**
 
 * Breakfast
-* Sunday morning will be time to finish up and work and present back/discuss with the wider group.
+* Sunday morning will be time to wrap up some discussion, reflect on what we have learned, and think about how we can carry on our work outside of this wananga. 
+* Tidy up of whare nui and whare kai.
 * 1pm finish
 
-## Possible projects
+## Possible projects for discussion
 
-You are free to bring your own project ideas if you have them but we have also come up with a few ideas ourselves. Here's a list:
+At the last noho, we came up with  a list of possible projects people may want to look at or discuss. If any of the below interest you or you have your own project, 
 
 * Create a website on health and technology based on Te Whare Tapa Whā principles
 * Creating visualisations for the data on Te Reo Maori and other Pacific languages
@@ -60,7 +67,7 @@ Some of these ideas have been fleshed out a little with skeleton code provided a
 ## Questions and answers
 
 * Q: What do I need to know to come along?
-  * A: Not a whole lot. The hacka-noho is aimed at people with all skill levels in the Faculty who have done or are doing any Stats or Comp Sci course (or similar data/programming type courses)   
+  * A: Not a whole lot. The noho is aimed at people with all skill levels in the Faculty who have done or are doing any Stats/Comp Sci/ or similar data/programming type courses   
 * Q: Do I need to be there the whole time?
   * A: No. If you have work or other commitments that mean you can only come for part of it, you can still come along.
 * Q: What do I need to bring?
@@ -72,6 +79,6 @@ Some of these ideas have been fleshed out a little with skeleton code provided a
 
 ## Contact
 
-If you have any questions about the hackanoho that we have run or possible future events, contact David Welch [david.welch@auckland.ac.nz](mailto:david.welch@auckland.ac.nz) or Daniel Wilson [daniel.wilson@auckland.ac.nz](mailto:daniel.wilson@auckland.ac.nz)
+If you have any questions about the event , contact David Welch [david.welch@auckland.ac.nz](mailto:david.welch@auckland.ac.nz) ph 0211354767 or Daniel Wilson [daniel.wilson@auckland.ac.nz](mailto:daniel.wilson@auckland.ac.nz)
 
 We look forward to hearing from you!
