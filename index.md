@@ -12,7 +12,7 @@ It is based on a [similar event that ran in 2021](./2021hackanoho).
 
 ## Location
 
-The Data and Computing Noho will be held at University of Auckland's [Te Aka Matua ki Te Pou Hawaiki marae](https://toirau.auckland.ac.nz/category/te-aka-matua-ki-te-pou-hawaiki/) on the Epsom campus. Use Gate 1 at [78 Epsom Avenue, Epsom, Auckland  1023](https://goo.gl/maps/hhMiCvbMUVdB1zWD9) just down the road from the Mt Eden shops, the marae is [just up the driveway on the left](https://goo.gl/maps/hhMiCvbMUVdB1zWD9). 
+The Data and Computing Noho will be held at University of Auckland's [Te Aka Matua ki Te Pou Hawaiki marae](https://toirau.auckland.ac.nz/category/te-aka-matua-ki-te-pou-hawaiki/) on the Epsom campus. Use Gate 1 at [78 Epsom Avenue, Epsom, Auckland  1023](https://goo.gl/maps/hhMiCvbMUVdB1zWD9) just down the road from the Mt Eden shops, the marae is [just up the driveway on the left](https://goo.gl/maps/NvkpvvWWCDBtURew5). 
 
 A [map of the Epsom campus is here](https://www.auckland.ac.nz/content/dam/uoa/auckland/on-campus/our-campuses/campus-maps/epsom-campus-map.pdf) (pdf)
 
