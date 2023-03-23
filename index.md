@@ -20,9 +20,11 @@ A [map of the Epsom campus is here](https://www.auckland.ac.nz/content/dam/uoa/a
 
 The Noho will run from 6pm Friday 24 March, to 1pm Sunday 26 March.
 
-## Gift voucher to encourage and support attendance
+## Gift voucher for attendees
 
-Students who attend for a large part of the noho will be be given a $300 gift voucher. Either Countdown or Westfield vouchers are available. These will be sent out in the week following the noho. 
+Students who attend the large part of the noho will be be given a $300 gift voucher. Either Countdown or Westfield vouchers are available. These will be sent out in the week following the noho. 
+
+The purpose of this voucher is to encourage and support attendance. 
 
 ## Manuhiri 
 
@@ -78,7 +80,7 @@ Some of these ideas have been fleshed out a little with skeleton code provided a
 
 ## COVID-19
 
-To keep the noho safe and make sure there is no have significant spread of Covid-19 during the event, we ask everyone to *take a RAT test on Friday before coming**. 
+To keep the noho safe and make sure there is no have significant spread of Covid-19 during the event, we ask everyone to **take a RAT test on Friday before coming**. 
 
 There will be RATs available on site so people can test again on Saturday morning.
 
@@ -98,9 +100,9 @@ There will be RATs available on site so people can test again on Saturday mornin
 
 ## Contact
 
-If you have any questions about the event , contact 
+If you have any questions about the event, contact 
 
-* David Welch [david.welch@auckland.ac.nz](mailto:david.welch@auckland.ac.nz) ph 0211354767, or 
-* Daniel Wilson [daniel.wilson@auckland.ac.nz](mailto:daniel.wilson@auckland.ac.nz) ph 0210673167
+* David Welch [david.welch@auckland.ac.nz](mailto:david.welch@auckland.ac.nz) ph [0211354767](tel:+64211453767), or 
+* Daniel Wilson [daniel.wilson@auckland.ac.nz](mailto:daniel.wilson@auckland.ac.nz) ph [0210673167](tel:+64210673167)
 
-We look forward to hearing from you!
+We look forward to hearing from you and seeing you at the noho!
