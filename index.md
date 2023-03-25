@@ -110,4 +110,4 @@ If you have any questions about the event, contact
 
 We look forward to hearing from you and seeing you at the noho!
 
-*view source at (https://github.com/hackanoho/hackanoho.github.io)*
+*view source at <https://github.com/hackanoho/hackanoho.github.io> *
