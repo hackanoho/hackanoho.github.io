@@ -8,7 +8,7 @@ The noho is a fully catered and free event, with accommodation at the marae.
 
 It is based on similar events that [ran in 2021](./2021hackanoho), and [in 2023](./2023dataandcomputingnoho).
 
-![Marae](./tetaka.jpg)
+![Marae](./waipapa.jpg)
 
 ## Location
 
