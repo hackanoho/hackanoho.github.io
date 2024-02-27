@@ -1,26 +1,28 @@
-## About
+## About the previous Data and Computing Noho run in 2021
 
-The Data and Computing Noho marae is aimed at strengthening our knowledge of these areas and our Tuākana ties. We will achieve this through kōrero, wānaga, and kai as we stay together at Waipapa marae on the City Campus.
+The Data and Computing Noho marae is aimed at strengthening our knowledge of these areas and our Tuākana ties. We will achieve this through kōrero, wānaga, and kai as we stay together at Te Aka Matua ki Te Pou Hawaiki marae on Epsom Campus.
 
 People are welcome from all skill levels and all levels of study from 100- to 700-level across the Faculty of Science or Software Engineering.
 
 The noho is a fully catered and free event, with accommodation at the marae.
 
-It is based on similar events that [ran in 2021](./2021hackanoho), and [in 2023](./2023dataandcomputingnoho).
+It is based on a [similar event that ran in 2021](./2021hackanoho).
 
 ![Marae](./tetaka.jpg)
 
 ## Location
 
-The Data and Computing Noho will be held at University of Auckland's [Waipapa marae](https://www.auckland.ac.nz/en/on-campus/life-on-campus/maori-life-on-campus/waipapa-marae.html) on the City campus. The marae is [on the corner of Wynyard St and Alten Rd](https://maps.app.goo.gl/mL4jPRfFMWKmPtHm6). 
+The Data and Computing Noho will be held at University of Auckland's [Te Aka Matua ki Te Pou Hawaiki marae](https://toirau.auckland.ac.nz/category/te-aka-matua-ki-te-pou-hawaiki/) on the Epsom campus. Use Gate 1 at [78 Epsom Avenue, Epsom, Auckland  1023](https://goo.gl/maps/hhMiCvbMUVdB1zWD9) just down the road from the Mt Eden shops, the marae is [just up the driveway on the left](https://goo.gl/maps/NvkpvvWWCDBtURew5). 
+
+A [map of the Epsom campus is here](https://www.auckland.ac.nz/content/dam/uoa/auckland/on-campus/our-campuses/campus-maps/epsom-campus-map.pdf) (pdf)
 
 ## Dates and times
 
-The Noho will run from 6pm Friday 22 March, to 1pm Sunday 24 March.
+The Noho will run from 6pm Friday 24 March, to 1pm Sunday 26 March.
 
 ## Gift voucher for attendees
 
-Students who attend the large part of the noho will be be given a $250 gift voucher. Either Countdown or Westfield vouchers are available. These will be sent out in the week following the noho. 
+Students who attend the large part of the noho will be be given a gift voucher. Either Countdown or Westfield vouchers are available. These will be sent out in the week following the noho. 
 
 The purpose of this voucher is to encourage and support attendance. 
 
@@ -40,7 +42,7 @@ The flow of the day will be guided by people's interests and what is working bes
 
 **Friday** 
 
-* Meet at Waipapa marae at 6pm
+* Meet at Te Aka Matua marae at 6pm
 * Powhiri
 * 7pm Kai
 * 8:30pm- Mihimihi (introductions), overview of noho, and discussion
@@ -76,13 +78,22 @@ Just to emphasise: these are suggestions only. We will approach questions like t
 
 Some of these ideas have been fleshed out a little with skeleton code provided at <https://github.com/hackanoho/project-ideas>.
 
+## COVID-19
+
+To keep the noho safe and make sure there is no have significant spread of Covid-19 during the event, we ask everyone to **take a RAT test on Friday before coming**. 
+
+There will be RATs available on site so people can test again on Saturday morning.
+
+## Ngā mihi
+
+Some financial support for this noho has come from [Infosys](https://www.infosys.com/careers/australia-new-zealand.html) which is gratefully acknowledged here. 
 
 ## Questions and answers
 
 * Q: What do I need to know to come along?
-  * A: Not a whole lot. The noho is aimed at people with all skill levels in the Faculty who have done or are interested in doing any Stats/Comp Sci/ or similar data/programming type courses   
+  * A: Not a whole lot. The noho is aimed at people with all skill levels in the Faculty who have done or are doing any Stats/Comp Sci/ or similar data/programming type courses   
 * Q: Do I need to be there the whole time?
-  * A: Ideally you'll be there as long as possible. But if you have work or other commitments that mean you can only come for part of it, you can still come along.
+  * A: No. If you have work or other commitments that mean you can only come for part of it, you can still come along.
 * Q: What do I need to bring?
   * A: Accomodation is in the whare nui so bring a sleeping bag and whatever personal items you need. If you have a lap-top or other device, you can bring that too. 
 * Q: Can I borrow a laptop?
