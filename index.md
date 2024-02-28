@@ -26,12 +26,15 @@ The purpose of this voucher is to encourage and support attendance.
 
 ## Manuhiri 
 
-As well as past and present Tuākana tutors and coordinators from Computer Science, and the Faculty of Science Kaiarahi, we are lucky to have people from the following organisations who will be at the noho.
+As well as past and present Tuākana tutors and coordinators from Computer Science, and the Faculty of Science Kaiarahi, we will have experts from industry at the noho. 
+
+We will confirm exactly who can make it well before the noho starts but previous attendance and support has come from:
 
 * [Dragonfly Data Science](https://www.dragonfly.co.nz/)
 * the [Papa Reo project](https://tehiku.nz/te-hiku-tech/papa-reo/) at Te Hiku Tech, and 
 * [Te Matarau](https://www.tematarau.tech/) (Maori Tech Association)
 
+Previous generous financial support has come from Infosys.
 
 ## Programme
 
