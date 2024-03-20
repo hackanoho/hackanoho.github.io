@@ -6,6 +6,8 @@ People are welcome from all skill levels and all levels of study from 100- to 70
 
 The noho is a fully catered and free event, with accommodation at the marae.
 
+Generous support for this event comes from the School of Computer Science.
+
 It is based on similar events that [ran in 2021](./2021hackanoho), and [in 2023](./2023dataandcomputingnoho).
 
 ![Marae](./waipapa.jpg)
@@ -26,15 +28,13 @@ The purpose of this voucher is to encourage and support attendance.
 
 ## Manuhiri 
 
-As well as past and present Tuākana tutors and coordinators from Computer Science, and the Faculty of Science Kaiarahi, we will have experts from industry at the noho. 
-
-We will confirm exactly who can make it well before the noho starts but previous attendance and support has come from:
+As well as past and present Tuākana tutors and coordinators from Computer Science, and the Faculty of Science Kaiarahi, we will have experts from industry at the noho including from:
 
 * [Dragonfly Data Science](https://www.dragonfly.co.nz/)
-* the [Papa Reo project](https://tehiku.nz/te-hiku-tech/papa-reo/) at Te Hiku Tech, and 
-* [Te Matarau](https://www.tematarau.tech/) (Maori Tech Association)
+* [The TechNesians](https://technesianlivestream.github.io/)
+* Genesis Energy
+* Amazon Web Services 
 
-Previous generous financial support has come from Infosys.
 
 ## Programme
 
@@ -53,7 +53,7 @@ The flow of the day will be guided by people's interests and what is working bes
 * Breakfast 8-9am
 * In the morning sessions, guests will discuss an interesting current project, with plenty of time for questions and discussion
 * About 12:30 Lunch
-* The afternoon sessions will be based more around useful skills for working with data.
+* The afternoon sessions will be based more around useful skills for working in tech or with data.
 * 7pm More kai
 
 **Sunday**
