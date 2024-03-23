@@ -30,10 +30,12 @@ The purpose of this voucher is to encourage and support attendance.
 
 As well as past and present Tuākana tutors and coordinators from Computer Science, and the Faculty of Science Kaiarahi, we will have experts from industry at the noho including from:
 
-* [Dragonfly Data Science](https://www.dragonfly.co.nz/)
+* [Dragonfly Data Science](https://www.dragonfly.co.nz/) - here are [Henry's slides](https://docs.google.com/presentation/d/1lnCdGjX2UE5w9WyCivzLGqhZPZ_0YnafLOiNl0lBm78/edit)
 * [The TechNesians](https://technesianlivestream.github.io/)
-* Genesis Energy
+* Mercury Energy
 * Amazon Web Services 
+* [The ICT graduate school](https://www.auckland.ac.nz/en/science/business-and-community-engagement/business-and-community/auckland-ict-graduate-school.html)
+
 
 
 ## Programme
