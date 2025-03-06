@@ -1,4 +1,4 @@
-## About
+## About the previous Data and Computing Noho run in 2024
 
 The Data and Computing Noho marae is aimed at strengthening our knowledge of these areas and our Tuākana ties. We will achieve this through kōrero, wānaga, and kai as we stay together at Waipapa marae on the City Campus.
 
