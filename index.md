@@ -52,8 +52,8 @@ The flow of the day will be guided by people's interests and what is working bes
 **Saturday**
 
 * Breakfast 8-9am
-* Jamie Nathan (Mercury) - intro to Github
-* Henry MacDonald (Dragonfly)- LLM-assisted data analysis. Please download [Pixi](https://pixi.sh/latest/#installation) and [VS Code](https://code.visualstudio.com/download)
+* Jamie Nathan (Mercury) - intro to Github. [Links here](https://jtipsn.github.io/jamnat-github.io/)
+* Henry MacDonald (Dragonfly)- LLM-assisted data analysis. Download a few things from [links here](https://github.com/hlm628/hackanoho-2025).
 * Tori Diamond (iNZight Analytics) - Stats and survey data for Māori wellbeing
 * About 12:30 Lunch
 * Manakore Rickus-King (Nicholson Consulting) - Industry projects
