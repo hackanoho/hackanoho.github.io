@@ -52,16 +52,21 @@ The flow of the day will be guided by people's interests and what is working bes
 **Saturday**
 
 * Breakfast 8-9am
-* In the morning sessions, guests will discuss an interesting current project, with plenty of time for questions and discussion
+* Jamie Nathan (Genesis) - intro to Github
+* Henry MacDonald (Dragonfly)- LLM-assisted data analysis. Please download [Pixi](https://pixi.sh/latest/#installation) and [VS Code](https://code.visualstudio.com/download)
+* Tori Diamond (iNZight Analytics) - Stats and survey data for Māori wellbeing
 * About 12:30 Lunch
-* The afternoon sessions will be based more around useful skills for working in tech or with data.
+* Manakore Rickus-King (Nicholson Consulting) - Industry projects
+* Tyne Crow (ICT Graduate School)- IDEs and some web basics
+* Panel discussion
 * 7pm More kai
 
 **Sunday**
 
 * Breakfast
-* Sunday morning will be time to wrap up some discussion, reflect on what we have learned, and think about how we can carry on our work outside of this wananga. 
+* Daniel Wilson 
 * Tidy up of whare nui and whare kai.
+* Reflections and discussion
 * 1pm finish
 
 
