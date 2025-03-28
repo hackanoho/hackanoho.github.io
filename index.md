@@ -52,7 +52,7 @@ The flow of the day will be guided by people's interests and what is working bes
 **Saturday**
 
 * Breakfast 8-9am
-* Jamie Nathan (Genesis) - intro to Github
+* Jamie Nathan (Mercury) - intro to Github
 * Henry MacDonald (Dragonfly)- LLM-assisted data analysis. Please download [Pixi](https://pixi.sh/latest/#installation) and [VS Code](https://code.visualstudio.com/download)
 * Tori Diamond (iNZight Analytics) - Stats and survey data for Māori wellbeing
 * About 12:30 Lunch
