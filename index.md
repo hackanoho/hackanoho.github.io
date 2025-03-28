@@ -56,7 +56,7 @@ The flow of the day will be guided by people's interests and what is working bes
 * Henry MacDonald (Dragonfly)- LLM-assisted data analysis. Download a few things from [links here](https://github.com/hlm628/hackanoho-2025).
 * Tori Diamond (iNZight Analytics) - Stats and survey data for Māori wellbeing
 * About 12:30 Lunch
-* Manakore Rickus-King (Nicholson Consulting) - Industry projects
+* Manakore Rickus-King (Nicholson Consulting) - My journey to Data Science
 * Tyne Crow (ICT Graduate School)- IDEs and some web basics
 * Panel discussion
 * 7pm More kai
