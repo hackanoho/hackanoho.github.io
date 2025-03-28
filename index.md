@@ -53,7 +53,7 @@ The flow of the day will be guided by people's interests and what is working bes
 
 * Breakfast 8-9am
 * Jamie Nathan (Mercury) - intro to Github. [Links here](https://jtipsn.github.io/jamnat-github.io/)
-* Henry MacDonald (Dragonfly)- LLM-assisted data analysis. Download a few things from [links here](https://github.com/hlm628/hackanoho-2025).
+* Henry MacDonald (Dragonfly)- LLM-assisted data analysis. [Github repo here](https://github.com/hlm628/hackanoho-2025).
 * Tori Diamond (iNZight Analytics) - Stats and survey data for Māori wellbeing
 * About 12:30 Lunch
 * Manakore Rickus-King (Nicholson Consulting) - My journey to Data Science
@@ -65,7 +65,7 @@ The flow of the day will be guided by people's interests and what is working bes
 
 * Breakfast
 * Daniel Wilson 
-* Tidy up of whare nui and whare kai.
+* Tidy up of wharenui and whare kai.
 * Reflections and discussion
 * 1pm finish
 
